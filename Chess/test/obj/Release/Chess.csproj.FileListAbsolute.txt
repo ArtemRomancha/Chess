@@ -1,0 +1,9 @@
+D:\Dropbox\Курсовая\Chess\Chess\Test\bin\Release\Test.exe.config
+D:\Dropbox\Курсовая\Chess\Chess\Test\obj\Release\Test.exe
+D:\Dropbox\Курсовая\Chess\Chess\Test\obj\Release\Test.pdb
+D:\Dropbox\Курсовая\Chess\Chess\Test\bin\Release\Test.exe
+D:\Dropbox\Курсовая\Chess\Chess\Test\bin\Release\Test.pdb
+D:\Dropbox\Курсовая\Chess\Chess\Test\obj\Release\Chess.csprojResolveAssemblyReference.cache
+D:\Dropbox\Курсовая\Chess\Chess\Test\obj\Release\Test.ChessForm.resources
+D:\Dropbox\Курсовая\Chess\Chess\Test\obj\Release\Test.Properties.Resources.resources
+D:\Dropbox\Курсовая\Chess\Chess\Test\obj\Release\Chess.csproj.GenerateResource.Cache

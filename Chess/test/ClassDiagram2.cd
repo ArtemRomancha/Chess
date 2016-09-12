@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Test.Bishop">
+    <Position X="2.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bishop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Board">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQIAAAABAAAIAAAAAAQAIAAAAIAACAABAAAA=</HashCode>
+      <FileName>Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Figure">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAgAAAAAAAAAAAQAAEAgAAAAAA=</HashCode>
+      <FileName>Figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Game_Rules">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAgIACAAAAAACAABAAACAABAAgACAAIAAEAAAQAIA=</HashCode>
+      <FileName>Game_Rules.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.King">
+    <Position X="7" Y="6.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>King.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Knight">
+    <Position X="11.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Knight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Pawn">
+    <Position X="4.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Game" Collapsed="true">
+    <Position X="15.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Queen">
+    <Position X="9.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Queen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Rock">
+    <Position X="13.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
